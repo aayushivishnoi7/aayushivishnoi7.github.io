@@ -3,17 +3,15 @@
   contents:
     - name: Full Name
       value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
     - name: Languages
       value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: BS-MS Dual Degree in Biological Sciences
+      institution: Indian Institute of Science Education and Research, Bhopal
+      year: 2016-2021
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +19,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Post Graduate Diploma in Cyber Law and Cyber Forensics
+      institution:  National Law School of India University, Bengaluru
+      year: 2023-2024
       description:
         - Description 1.
         - Description 2.
